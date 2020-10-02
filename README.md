@@ -13,7 +13,7 @@ python3 main.py
 Follow the prompt to either input one of the popular available baskets or create your own (e.g R01, G01, B01)
 
 ## Example
-```bash
+```
 Please input all the basket items for evaluation
 
 Select from the following list of options by number, or input all product codes in CSV format:
