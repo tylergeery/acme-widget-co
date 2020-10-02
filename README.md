@@ -3,7 +3,7 @@ A Basket interface and CLI to checkout and calculate ACME widgets
 
 ## Assumptions
 - No such thing as a half penny
-- Offers should be calculated before delivery charges (more revenue)
+- Offers should be calculated before delivery charges
 
 ## Run instructions
 ```bash
@@ -29,7 +29,7 @@ Delivery: $2.95
 Total: $60.85
 ```
 
-## TODO:
+### TODO:
 - Add tests
 - Limit CLI from outputting all lines (e.g if offer not used)
 - Aggregate CLI output for each product type (e.g Red Widget (x2))
